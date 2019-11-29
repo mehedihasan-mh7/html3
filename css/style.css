@@ -1,0 +1,27 @@
+.header{
+	min-height: 100px;
+	background-color: aqua;
+}
+.all_box{
+	overflow: hidden;
+	border :2px solid yellow;
+}
+.blog{
+	float:left;
+	min-height: 400px;
+	width:70.1%;
+	background-color:blue;
+	border :2px solid black;
+}
+.contact{
+	float:right;
+	min-height: 400px;
+	width:29.2%;
+	background-color:rgb(125, 60, 152);
+	border :2px solid black;
+}
+.footer{
+	min-height: 150px;
+	background-color:rgb(0, 255, 0);
+    border:2px dotted red; 
+}
